@@ -1,34 +1,34 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &129932
+--- !u!1 &158442
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   serializedVersion: 4
   m_Component:
-  - 4: {fileID: 423104}
-  - 143: {fileID: 14302410}
-  - 114: {fileID: 11456056}
+  - 4: {fileID: 421826}
+  - 143: {fileID: 14345836}
+  - 114: {fileID: 11497568}
   m_Layer: 0
-  m_Name: Player
+  m_Name: Player Chris
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!1 &144080
+--- !u!1 &174568
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   serializedVersion: 4
   m_Component:
-  - 4: {fileID: 417192}
-  - 20: {fileID: 2054850}
-  - 92: {fileID: 9269922}
-  - 124: {fileID: 12469880}
-  - 81: {fileID: 8179804}
+  - 4: {fileID: 442346}
+  - 20: {fileID: 2018974}
+  - 92: {fileID: 9259596}
+  - 124: {fileID: 12428656}
+  - 81: {fileID: 8127980}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -36,37 +36,37 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &417192
+--- !u!4 &421826
 Transform:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 144080}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 423104}
-  m_RootOrder: 0
---- !u!4 &423104
-Transform:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 129932}
+  m_GameObject: {fileID: 158442}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 417192}
+  - {fileID: 442346}
   m_Father: {fileID: 0}
   m_RootOrder: 0
---- !u!20 &2054850
+--- !u!4 &442346
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 174568}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 1.75, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 421826}
+  m_RootOrder: 0
+--- !u!20 &2018974
 Camera:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 144080}
+  m_GameObject: {fileID: 174568}
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
@@ -93,26 +93,26 @@ Camera:
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
   m_StereoSeparation: .0219999999
---- !u!81 &8179804
+--- !u!81 &8127980
 AudioListener:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 144080}
+  m_GameObject: {fileID: 174568}
   m_Enabled: 1
---- !u!92 &9269922
+--- !u!92 &9259596
 Behaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 144080}
+  m_GameObject: {fileID: 174568}
   m_Enabled: 1
---- !u!114 &11456056
+--- !u!114 &11497568
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 129932}
+  m_GameObject: {fileID: 158442}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c739f5d83b506d743aee9199fef3a270, type: 3}
@@ -121,19 +121,19 @@ MonoBehaviour:
   movementSpeed: 5
   mouseSensivity: 2
   UpAndDownRange: 60
---- !u!124 &12469880
+--- !u!124 &12428656
 Behaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 144080}
+  m_GameObject: {fileID: 174568}
   m_Enabled: 1
---- !u!143 &14302410
+--- !u!143 &14345836
 CharacterController:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 129932}
+  m_GameObject: {fileID: 158442}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
@@ -144,7 +144,7 @@ CharacterController:
   m_StepOffset: .300000012
   m_SkinWidth: .0799999982
   m_MinMoveDistance: .00100000005
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Center: {x: 0, y: .899999976, z: 0}
 --- !u!1001 &100100000
 Prefab:
   m_ObjectHideFlags: 1
@@ -154,5 +154,5 @@ Prefab:
     m_Modifications: []
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 0}
-  m_RootGameObject: {fileID: 129932}
+  m_RootGameObject: {fileID: 158442}
   m_IsPrefabParent: 1

@@ -124,7 +124,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 421826, guid: d2309aab12371a047b77f008d1680dba, type: 2}
       propertyPath: m_RootOrder
-      value: 4
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d2309aab12371a047b77f008d1680dba, type: 2}
@@ -189,7 +189,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
---- !u!1001 &459426358
+--- !u!1001 &725150731
 Prefab:
   m_ObjectHideFlags: 0
   serializedVersion: 2

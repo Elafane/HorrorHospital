@@ -3,6 +3,8 @@
 # =============== #
 Temp/
 Library/
+!*.*.meta
+*.gitignore
 
 # ===================================== #
 # Visual Studio / MonoDevelop generated #

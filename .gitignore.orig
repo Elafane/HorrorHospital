@@ -3,8 +3,12 @@
 # =============== #
 Temp/
 Library/
+<<<<<<< HEAD
 !*.*.meta
 *.gitignore
+=======
+!*.*meta
+>>>>>>> 2aae91831a8ab4b46924a35d55a32a049d73540f
 
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
@@ -31,5 +35,3 @@ obj/
 .Trashes
 ehthumbs.db
 Thumbs.db
-!*.*.meta
-.gitignore

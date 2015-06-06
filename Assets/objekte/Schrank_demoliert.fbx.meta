@@ -1,5 +1,7 @@
 fileFormatVersion: 2
-guid: 74a8b1c7be4fc544199e145e637a2c0d
+guid: 4b7916be79bf80d4b85ea4c70d680bac
+timeCreated: 1433608985
+licenseType: Free
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
@@ -20,10 +22,10 @@ ModelImporter:
     100028: Lathe_9
     100030: myOctaneSettings
     100032: Schmelzen
-    100034: //RootNode
-    100036: Schrank
-    100038: Schrank_2
-    100040: Schrank_3
+    100034: Schrank
+    100036: Schrank_2
+    100038: Schrank_3
+    100040: //RootNode
     100042: Schublade
     100044: Schublade_1
     100046: Schublade_1_2
@@ -56,10 +58,10 @@ ModelImporter:
     400028: Lathe_9
     400030: myOctaneSettings
     400032: Schmelzen
-    400034: //RootNode
-    400036: Schrank
-    400038: Schrank_2
-    400040: Schrank_3
+    400034: Schrank
+    400036: Schrank_2
+    400038: Schrank_3
+    400040: //RootNode
     400042: Schublade
     400044: Schublade_1
     400046: Schublade_1_2
@@ -120,7 +122,6 @@ ModelImporter:
     4300024: Lathe_12
     4300026: Schublade_2_3
     4300028: Lathe_14
-    9500000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0
@@ -140,7 +141,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 0
+    globalScale: 1
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
@@ -174,7 +175,7 @@ ModelImporter:
     feetSpacing: 0
     rootMotionBoneName: 
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   additionalBone: 0
   userData: 
   assetBundleName: 

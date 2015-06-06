@@ -1,5 +1,7 @@
 fileFormatVersion: 2
-guid: c8b8b34b4ef80924bbf8ef77a7d64ed5
+guid: 5b28640592cefcd458b8a21fd62234e1
+timeCreated: 1433620533
+licenseType: Free
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
@@ -10,11 +12,11 @@ ModelImporter:
     100008: LattenRost
     100010: Links
     100012: Matraze
-    100014: myOctaneSettings
+    100014: myOctaneSe
     100016: Rad
-    100018: Rad_2
-    100020: Rad_3
-    100022: Rad_4
+    100018: Rad1
+    100020: Rad2
+    100022: Rad3
     100024: Rechts
     100026: Bett_1
     400000: Anfang
@@ -24,44 +26,52 @@ ModelImporter:
     400008: LattenRost
     400010: Links
     400012: Matraze
-    400014: myOctaneSettings
+    400014: myOctaneSe
     400016: Rad
-    400018: Rad_2
-    400020: Rad_3
-    400022: Rad_4
+    400018: Rad1
+    400020: Rad2
+    400022: Rad3
     400024: Rechts
     400026: Bett_1
     2300000: Anfang
-    2300002: Ende
-    2300004: LattenRost
-    2300006: Links
-    2300008: Matraze
-    2300010: Rad
-    2300012: Rad_2
-    2300014: Rad_3
-    2300016: Rad_4
-    2300018: Rechts
+    2300002: Bett
+    2300004: Ende
+    2300006: LattenRost
+    2300008: Links
+    2300010: Matraze
+    2300012: myOctaneSe
+    2300014: Rad
+    2300016: Rad1
+    2300018: Rad2
+    2300020: Rad3
+    2300022: Rechts
+    2300024: Bett_1
     3300000: Anfang
-    3300002: Ende
-    3300004: LattenRost
-    3300006: Links
-    3300008: Matraze
-    3300010: Rad
-    3300012: Rad_2
-    3300014: Rad_3
-    3300016: Rad_4
-    3300018: Rechts
-    4300000: Rad
-    4300002: Rad_2
-    4300004: Rad_3
-    4300006: Rad_4
-    4300008: Ende
-    4300010: Anfang
-    4300012: Rechts
-    4300014: Links
-    4300016: LattenRost
-    4300018: Matraze
-    9500000: //RootNode
+    3300002: Bett
+    3300004: Ende
+    3300006: LattenRost
+    3300008: Links
+    3300010: Matraze
+    3300012: myOctaneSe
+    3300014: Rad
+    3300016: Rad1
+    3300018: Rad2
+    3300020: Rad3
+    3300022: Rechts
+    3300024: Bett_1
+    4300000: Bett
+    4300002: Rad
+    4300004: Rad1
+    4300006: Rad2
+    4300008: Rad3
+    4300010: Ende
+    4300012: Anfang
+    4300014: Rechts
+    4300016: Links
+    4300018: LattenRost
+    4300020: Matraze
+    4300022: myOctaneSe
+    4300024: Bett_1
   materials:
     importMaterials: 1
     materialName: 0
@@ -81,7 +91,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 0
+    globalScale: 1
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
@@ -115,7 +125,7 @@ ModelImporter:
     feetSpacing: 0
     rootMotionBoneName: 
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   additionalBone: 0
   userData: 
   assetBundleName: 

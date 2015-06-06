@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: 46d02a6b6b4d5d64aa533fb8079380a5
+timeCreated: 1433620925
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Lathe
+    100002: Lathe1
+    100004: Lathe2
+    100006: Lathe3
+    100008: Lathe4
+    100010: Lathe5
+    100012: Lathe6
+    100014: myOctaneSe
+    100016: Schra
+    100018: //RootNode
+    100020: Schrank
+    100022: Schub
+    100024: Schub1
+    100026: Schub2
+    100028: Schub3
+    100030: Schub4
+    100032: Schublade
+    100034: Schublade_
+    400000: Lathe
+    400002: Lathe1
+    400004: Lathe2
+    400006: Lathe3
+    400008: Lathe4
+    400010: Lathe5
+    400012: Lathe6
+    400014: myOctaneSe
+    400016: Schra
+    400018: //RootNode
+    400020: Schrank
+    400022: Schub
+    400024: Schub1
+    400026: Schub2
+    400028: Schub3
+    400030: Schub4
+    400032: Schublade
+    400034: Schublade_
+    2300000: Lathe
+    2300002: Lathe1
+    2300004: Lathe2
+    2300006: Lathe3
+    2300008: Lathe4
+    2300010: Lathe5
+    2300012: Lathe6
+    2300014: myOctaneSe
+    2300016: Schra
+    2300018: Schrank
+    2300020: Schub
+    2300022: Schub1
+    2300024: Schub2
+    2300026: Schub3
+    2300028: Schub4
+    2300030: Schublade
+    2300032: Schublade_
+    3300000: Lathe
+    3300002: Lathe1
+    3300004: Lathe2
+    3300006: Lathe3
+    3300008: Lathe4
+    3300010: Lathe5
+    3300012: Lathe6
+    3300014: myOctaneSe
+    3300016: Schra
+    3300018: Schrank
+    3300020: Schub
+    3300022: Schub1
+    3300024: Schub2
+    3300026: Schub3
+    3300028: Schub4
+    3300030: Schublade
+    3300032: Schublade_
+    4300000: Schrank
+    4300002: Schra
+    4300004: Schublade_
+    4300006: Lathe
+    4300008: Schub
+    4300010: Lathe1
+    4300012: Schub1
+    4300014: Lathe2
+    4300016: Schub2
+    4300018: Lathe3
+    4300020: Schub3
+    4300022: Lathe4
+    4300024: Schub4
+    4300026: Lathe5
+    4300028: Schublade
+    4300030: Lathe6
+    4300032: myOctaneSe
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

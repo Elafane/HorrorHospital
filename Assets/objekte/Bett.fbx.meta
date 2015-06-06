@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: c8b8b34b4ef80924bbf8ef77a7d64ed5
+timeCreated: 1433614565
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Anfang
+    100002: //RootNode
+    100004: Bett
+    100006: Ende
+    100008: LattenRost
+    100010: Links
+    100012: Matraze
+    100014: myOctaneSettings
+    100016: Rad
+    100018: Rad_2
+    100020: Rad_3
+    100022: Rad_4
+    100024: Rechts
+    400000: Anfang
+    400002: //RootNode
+    400004: Bett
+    400006: Ende
+    400008: LattenRost
+    400010: Links
+    400012: Matraze
+    400014: myOctaneSettings
+    400016: Rad
+    400018: Rad_2
+    400020: Rad_3
+    400022: Rad_4
+    400024: Rechts
+    2300000: Anfang
+    2300002: Ende
+    2300004: LattenRost
+    2300006: Links
+    2300008: Matraze
+    2300010: Rad
+    2300012: Rad_2
+    2300014: Rad_3
+    2300016: Rad_4
+    2300018: Rechts
+    3300000: Anfang
+    3300002: Ende
+    3300004: LattenRost
+    3300006: Links
+    3300008: Matraze
+    3300010: Rad
+    3300012: Rad_2
+    3300014: Rad_3
+    3300016: Rad_4
+    3300018: Rechts
+    4300000: Rad
+    4300002: Rad_2
+    4300004: Rad_3
+    4300006: Rad_4
+    4300008: Ende
+    4300010: Anfang
+    4300012: Rechts
+    4300014: Links
+    4300016: LattenRost
+    4300018: Matraze
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -22,6 +22,25 @@ ModelImporter:
     100028: Schublade_4
     100030: Schublade_5
     100032: Schublade_6
+    100034: Bulge
+    100036: Lathe_10
+    100038: Lathe_11
+    100040: Lathe_12
+    100042: Lathe_13
+    100044: Lathe_14
+    100046: Lathe_8
+    100048: Lathe_9
+    100050: Schmelzen
+    100052: Schrank_2
+    100054: Schrank_3
+    100056: Schublade_1_2
+    100058: Schublade_2_2
+    100060: Schublade_2_3
+    100062: Schublade_3_2
+    100064: Schublade_4_2
+    100066: Schublade_5_2
+    100068: Schublade_6_2
+    100070: Verdrehen
     400000: Lathe
     400002: Lathe_2
     400004: Lathe_3
@@ -39,6 +58,25 @@ ModelImporter:
     400028: Schublade_4
     400030: Schublade_5
     400032: Schublade_6
+    400034: Bulge
+    400036: Lathe_10
+    400038: Lathe_11
+    400040: Lathe_12
+    400042: Lathe_13
+    400044: Lathe_14
+    400046: Lathe_8
+    400048: Lathe_9
+    400050: Schmelzen
+    400052: Schrank_2
+    400054: Schrank_3
+    400056: Schublade_1_2
+    400058: Schublade_2_2
+    400060: Schublade_2_3
+    400062: Schublade_3_2
+    400064: Schublade_4_2
+    400066: Schublade_5_2
+    400068: Schublade_6_2
+    400070: Verdrehen
     2300000: Lathe
     2300002: Lathe_2
     2300004: Lathe_3
@@ -54,6 +92,18 @@ ModelImporter:
     2300024: Schublade_4
     2300026: Schublade_5
     2300028: Schublade_6
+    2300030: Lathe_10
+    2300032: Lathe_12
+    2300034: Lathe_14
+    2300036: Lathe_8
+    2300038: Schrank_3
+    2300040: Schublade_1_2
+    2300042: Schublade_2_2
+    2300044: Schublade_2_3
+    2300046: Schublade_3_2
+    2300048: Schublade_4_2
+    2300050: Schublade_5_2
+    2300052: Schublade_6_2
     3300000: Lathe
     3300002: Lathe_2
     3300004: Lathe_3
@@ -69,6 +119,18 @@ ModelImporter:
     3300024: Schublade_4
     3300026: Schublade_5
     3300028: Schublade_6
+    3300030: Lathe_10
+    3300032: Lathe_12
+    3300034: Lathe_14
+    3300036: Lathe_8
+    3300038: Schrank_3
+    3300040: Schublade_1_2
+    3300042: Schublade_2_2
+    3300044: Schublade_2_3
+    3300046: Schublade_3_2
+    3300048: Schublade_4_2
+    3300050: Schublade_5_2
+    3300052: Schublade_6_2
     4300000: Schrank
     4300002: Schublade_6
     4300004: Lathe
@@ -84,6 +146,18 @@ ModelImporter:
     4300024: Lathe_6
     4300026: Schublade
     4300028: Lathe_7
+    4300030: Schrank_3
+    4300032: Schublade_6_2
+    4300034: Schublade_5_2
+    4300036: Schublade_4_2
+    4300038: Schublade_3_2
+    4300040: Lathe_8
+    4300042: Schublade_2_2
+    4300044: Lathe_10
+    4300046: Schublade_1_2
+    4300048: Lathe_12
+    4300050: Schublade_2_3
+    4300052: Lathe_14
   materials:
     importMaterials: 1
     materialName: 0

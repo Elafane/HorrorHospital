@@ -1,0 +1,37 @@
+# =============== #
+#      Unity      #
+# =============== #
+Temp/
+Library/
+<<<<<<< HEAD
+!*.*.meta
+*.gitignore
+=======
+!*.*meta
+>>>>>>> 2aae91831a8ab4b46924a35d55a32a049d73540f
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+/*.csproj
+*.pidb
+*.suo
+/*.sln
+*.user
+*.unityproj
+*.booproj
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

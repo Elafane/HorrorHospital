@@ -5,10 +5,12 @@ public class FirstPersonController : MonoBehaviour
 {
     public float movementSpeed = 5.0f;
     public float mouseSensivity = 2.0f;
+    public float UpAndDownRange = 60.0f;
 
+    private float verticalRotation = 0f;
 	// Use this for initialization
 	void Start () {
-
+        Cursor.visible = false;
 	}
 	
 	// Update is called once per frame
@@ -17,8 +19,10 @@ public class FirstPersonController : MonoBehaviour
         float rotLeftandRight = Input.GetAxis("Mouse X") * mouseSensivity;
         transform.Rotate(0, rotLeftandRight, 0);
 
-        float rotUpandDown = Input.GetAxis("Mouse Y") * mouseSensivity;
-        Camera.main.transform.Rotate(-rotUpandDown, 0, 0);
+        verticalRotation -= Input.GetAxis("Mouse Y") * mouseSensivity;
+        verticalRotation = Mathf.Clamp(verticalRotation, -UpAndDownRange, UpAndDownRange);
+        
+        Camera.main.transform.rotation = Quaternion.Euler(verticalRotation, 0, 0);
         
         //Movement
         float horizontalSpeed = Input.GetAxis("Horizontal") * movementSpeed;

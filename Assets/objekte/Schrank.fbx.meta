@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 74a8b1c7be4fc544199e145e637a2c0d
+timeCreated: 1433595055
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Lathe
+    100002: Lathe_2
+    100004: Lathe_3
+    100006: Lathe_4
+    100008: Lathe_5
+    100010: Lathe_6
+    100012: Lathe_7
+    100014: myOctaneSettings
+    100016: //RootNode
+    100018: Schrank
+    100020: Schublade
+    100022: Schublade_1
+    100024: Schublade_2
+    100026: Schublade_3
+    100028: Schublade_4
+    100030: Schublade_5
+    100032: Schublade_6
+    400000: Lathe
+    400002: Lathe_2
+    400004: Lathe_3
+    400006: Lathe_4
+    400008: Lathe_5
+    400010: Lathe_6
+    400012: Lathe_7
+    400014: myOctaneSettings
+    400016: Schrank
+    400018: //RootNode
+    400020: Schublade
+    400022: Schublade_1
+    400024: Schublade_2
+    400026: Schublade_3
+    400028: Schublade_4
+    400030: Schublade_5
+    400032: Schublade_6
+    2300000: Lathe
+    2300002: Lathe_2
+    2300004: Lathe_3
+    2300006: Lathe_4
+    2300008: Lathe_5
+    2300010: Lathe_6
+    2300012: Lathe_7
+    2300014: Schrank
+    2300016: Schublade
+    2300018: Schublade_1
+    2300020: Schublade_2
+    2300022: Schublade_3
+    2300024: Schublade_4
+    2300026: Schublade_5
+    2300028: Schublade_6
+    3300000: Lathe
+    3300002: Lathe_2
+    3300004: Lathe_3
+    3300006: Lathe_4
+    3300008: Lathe_5
+    3300010: Lathe_6
+    3300012: Lathe_7
+    3300014: Schrank
+    3300016: Schublade
+    3300018: Schublade_1
+    3300020: Schublade_2
+    3300022: Schublade_3
+    3300024: Schublade_4
+    3300026: Schublade_5
+    3300028: Schublade_6
+    4300000: Schrank
+    4300002: Schublade_6
+    4300004: Lathe
+    4300006: Schublade_5
+    4300008: Lathe_2
+    4300010: Schublade_4
+    4300012: Lathe_3
+    4300014: Schublade_3
+    4300016: Lathe_4
+    4300018: Schublade_2
+    4300020: Lathe_5
+    4300022: Schublade_1
+    4300024: Lathe_6
+    4300026: Schublade
+    4300028: Lathe_7
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

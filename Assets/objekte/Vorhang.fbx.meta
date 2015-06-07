@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: a9ded70af2633e544b0ff8f355c52bac
 timeCreated: 1433634664
+=======
+guid: c519304ca23f7cd418cfddf8e9028c80
+timeCreated: 1433634622
+>>>>>>> 97a7286ba369b8d8fa170379885034a608851ca9
 licenseType: Free
 ModelImporter:
   serializedVersion: 18
@@ -9,16 +14,38 @@ ModelImporter:
     100002: Schiene_1
     100004: //RootNode
     100006: Vorhang
+<<<<<<< HEAD
+=======
+    100008: Schiene
+    100010: Vorhang_2
+>>>>>>> 97a7286ba369b8d8fa170379885034a608851ca9
     400000: myOctaneSettings
     400002: Schiene_1
     400004: //RootNode
     400006: Vorhang
+<<<<<<< HEAD
     2300000: Schiene_1
     2300002: Vorhang
     3300000: Schiene_1
     3300002: Vorhang
     4300000: Schiene_1
     4300002: Vorhang
+=======
+    400008: Schiene
+    400010: Vorhang_2
+    2300000: Schiene_1
+    2300002: Vorhang
+    2300004: Schiene
+    2300006: Vorhang_2
+    3300000: Schiene_1
+    3300002: Vorhang
+    3300004: Schiene
+    3300006: Vorhang_2
+    4300000: Schiene_1
+    4300002: Vorhang
+    4300004: Schiene
+    4300006: Vorhang_2
+>>>>>>> 97a7286ba369b8d8fa170379885034a608851ca9
   materials:
     importMaterials: 1
     materialName: 0

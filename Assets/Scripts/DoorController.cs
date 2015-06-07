@@ -17,8 +17,6 @@ public class DoorController : MonoBehaviour {
 	void Update () {
 
         door.transform.rotation = Quaternion.Lerp(door.transform.rotation, Quaternion.AngleAxis(doorRotation, Vector3.up), 0.1f);
-
-
 	}
 
     void OnTriggerStay(Collider other)
